@@ -1,0 +1,6 @@
+name: PlayerVersion
+main: org.inventivetalent.playerversion.VersionPlugin
+author: inventivetalent
+version: ${project.version}
+
+softdepend: [PacketListenerApi]
