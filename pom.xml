@@ -74,7 +74,7 @@
         <dependency>
             <groupId>org.inventivetalent.packetlistener</groupId>
             <artifactId>api</artifactId>
-            <version>3.5.2-SNAPSHOT</version>
+            <version>3.7.3-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.inventivetalent</groupId>
